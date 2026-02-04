@@ -1,7 +1,6 @@
 🍔 Restaurant Website
 A clean and responsive static website for a restaurant, designed to provide a seamless user experience for browsing the menu, exploring food categories, and finding contact information. This project is a demonstration of strong foundational skills in HTML and CSS.
 
-✨ View the Live Demo:-[https://food-order-mohdsahil.netlify.app/]
 
 📸 Screenshots
 Home Page
@@ -42,6 +41,3 @@ CSS3: For all styling, layout, and responsive design.
 **📫 Contact
 I'd love to hear your feedback or answer any questions.**
 
-GitHub: [MohdSahil2618]
-
-LinkedIn: [https://www.linkedin.com/in/mohd-sahil1/]
